@@ -1,0 +1,31 @@
+
+
+
+#card{
+  background-color: bisque;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  width:85vw;
+  margin: 0 auto;
+  display:grid;
+  grid-gap:20px;
+}
+
+
+#card-list {
+
+  background-color: aqua;
+
+}
+
+body {
+  background: cadetblue;
+}
+h1{
+  font-family: 'Permanent Marker', cursive;
+}
+h3{
+  font-family: 'Handlee', cursive;
+}
+h6{
+  font-family: 'Amaranth', sans-serif;
+}
